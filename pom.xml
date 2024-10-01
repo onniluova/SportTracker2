@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>SportTrack</artifactId>
+  <artifactId>SportsTimeTracker</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
@@ -15,7 +15,7 @@
   </properties>
 
   <build>
-    <finalName>SportTrack</finalName>
+    <finalName>sportstimetracker</finalName>
     <plugins>
       <!-- Compiler Plugin for setting the Java version -->
       <plugin>
